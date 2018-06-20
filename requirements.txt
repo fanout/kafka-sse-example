@@ -1,0 +1,4 @@
+confluent-kafka==0.11.4
+Django==1.11
+django-dotenv==1.4.2
+django-grip==1.8.0
