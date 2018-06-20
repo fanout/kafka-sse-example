@@ -62,7 +62,7 @@ data: world
 
 ## How it works
 
-The code is relatively simple. [views.py](blob/master/kafka_events/views.py) sets up the SSE endpoint and [relay.py](blob/master/kafka_events/management/commands/relay.py) does the message I/O.
+The code is relatively simple. [views.py](kafka_events/views.py) sets up the SSE endpoint and [relay.py](kafka_events/management/commands/relay.py) does the message I/O.
 
 ## Limitations
 
