@@ -1,6 +1,6 @@
 # Kafka SSE Example
 
-This example project reads messages from a Kafka service and exposes the data over a streaming API using Server-Sent Events (SSE) protocol over HTTP. It is written using Python & Django, and relies on Pushpin for managing the streaming connections.
+This example project reads messages from a [Kafka](https://kafka.apache.org/) service and exposes the data over an HTTP streaming API using Server-Sent Events (SSE) protocol. It is written using Python & Django, and relies on [Pushpin](https://pushpin.org/) for managing the streaming connections.
 
 ## Setup and use
 
